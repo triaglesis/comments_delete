@@ -12,7 +12,7 @@ import os
 # op.write("%s" % pid)
 # op.close()
 
-token = '14de56889d3a53e072cb6b0823bff9c499fa064f6d057ae8b8f30845aeb2c9388b45e303131057259034c'
+token = 'TOKEN'
 tk_owner_id = "-46631810"
 tk_group_id = "46631810"
 tk_domain = "typical_kirovohrad"
